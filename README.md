@@ -212,3 +212,5 @@ directions you can take eCommerce.
 - Fetching real client reviews from reviews APIs
 - Adding search functionality
 - Leveraging [webhooks](https://commercejs.com/blog/webhooks-pizza-and-order-notifications-via-twilio) to automate post checkout actions
+
+
